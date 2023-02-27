@@ -15,7 +15,7 @@ declare module 'chart.js' {
      * Per chart datalabels plugin options.
      * @since 0.1.0
      */
-    datalabels?: Options;
+    datalabels?: any;
   }
 }
 
